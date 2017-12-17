@@ -1,0 +1,31 @@
+body {
+  padding-top: 2rem;
+  /*
+  */
+  background: #4CA8F5 !important;
+  color: #fff !important;
+  text-align: center;
+}
+
+#input-topic {
+  width: 300px;
+  max-width: 90vw;
+  margin: auto;
+}
+
+form {
+  margin-bottom: .5rem;
+}
+
+.form-control {
+  margin-bottom: 1rem !important;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+#search-results a {
+  max-width: 600px;
+  margin: 0 auto 1rem;
+}
